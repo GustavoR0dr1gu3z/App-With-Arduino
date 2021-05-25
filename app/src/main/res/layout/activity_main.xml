@@ -52,4 +52,12 @@
         tools:layout_editor_absoluteX="19dp"
         tools:layout_editor_absoluteY="312dp" />
 
+    <Button
+        android:id="@+id/sec2"
+        android:layout_width="147dp"
+        android:layout_height="46dp"
+        android:text="Secuencia 2"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="390dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
