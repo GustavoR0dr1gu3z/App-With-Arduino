@@ -40,15 +40,15 @@
         android:layout_height="50dp"
         android:text="Apagar Led"
         app:layout_constraintEnd_toEndOf="@+id/onLed"
-        app:layout_constraintHorizontal_bias="0.375"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/onLed"
-        tools:layout_editor_absoluteY="238dp" />
+        tools:layout_editor_absoluteY="241dp" />
 
     <Button
-        android:id="@+id/button6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/sec1"
+        android:layout_width="146dp"
+        android:layout_height="48dp"
+        android:text="Secuencia1"
         tools:layout_editor_absoluteX="19dp"
         tools:layout_editor_absoluteY="312dp" />
 
