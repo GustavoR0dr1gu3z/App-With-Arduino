@@ -36,10 +36,11 @@
 
     <Button
         android:id="@+id/offLed"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="155dp"
+        android:layout_height="40dp"
         android:text="Apagar Led"
-        tools:layout_editor_absoluteX="17dp"
-        tools:layout_editor_absoluteY="270dp" />
+        app:layout_constraintEnd_toEndOf="@+id/onLed"
+        app:layout_constraintStart_toStartOf="@+id/onLed"
+        tools:layout_editor_absoluteY="236dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
