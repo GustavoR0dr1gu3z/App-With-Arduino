@@ -42,7 +42,7 @@
         app:layout_constraintEnd_toEndOf="@+id/onLed"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/onLed"
-        tools:layout_editor_absoluteY="241dp" />
+        tools:layout_editor_absoluteY="276dp" />
 
     <Button
         android:id="@+id/sec1"
@@ -50,7 +50,7 @@
         android:layout_height="48dp"
         android:text="Secuencia1"
         tools:layout_editor_absoluteX="19dp"
-        tools:layout_editor_absoluteY="312dp" />
+        tools:layout_editor_absoluteY="412dp" />
 
     <Button
         android:id="@+id/sec2"
@@ -58,7 +58,7 @@
         android:layout_height="46dp"
         android:text="Secuencia 2"
         tools:layout_editor_absoluteX="19dp"
-        tools:layout_editor_absoluteY="390dp" />
+        tools:layout_editor_absoluteY="569dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -67,5 +67,13 @@
         android:text="Hecho Por: Gustavo Rodriguez Calzada <3"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="685dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/uaem"
+        tools:layout_editor_absoluteX="187dp"
+        tools:layout_editor_absoluteY="314dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
