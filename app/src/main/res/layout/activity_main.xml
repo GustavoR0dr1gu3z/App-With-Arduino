@@ -10,7 +10,7 @@
         android:id="@+id/texto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Digite el boton que quiere que muestre en el circuito"
+        android:text="Presione el boton que quiere que muestre en el circuito"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.229"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -38,7 +38,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/onLed"
         app:layout_constraintTop_toBottomOf="@+id/texto"
-        app:layout_constraintVertical_bias="0.073" />
+        app:layout_constraintVertical_bias="0.086" />
 
     <Button
         android:id="@+id/offLed"
@@ -57,7 +57,7 @@
         android:layout_height="48dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="60dp"
-        android:text="Secuencia1"
+        android:text="Secuencia 1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/offLed" />
 
