@@ -10,7 +10,7 @@
         android:id="@+id/texto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Digite el boton que quiere que muestre en el circuito <3"
+        android:text="Digite el boton que quiere que muestre en el circuito"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.076"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -64,7 +64,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hecho Por: Gustavo Rodriguez Calzada <3"
+        android:text="Hecho Por: Gustavo Rodriguez Calzada"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="685dp" />
 
